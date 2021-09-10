@@ -1,6 +1,6 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
 **dev-khanh/dev-khanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+**PingAK9/PingAK9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+-->
+
+# Hi, I’m DEVK 👋
+- 📱 I’m a Software application developer, I love creating apps for both iOS and Android
+- 🔭 I’m currently working at GoGame
+- 🌱 I’m currently learning React-Native & Flutter
+- 💬 You can reach me on facebook: [DEVK](https://www.facebook.com/DEVQK)
+- 📫 Skype: DEVK => saakhaka@gmail.com
+- ✨ Blogspot: [TPK Vi Dam Me](https://tpkvidamme.blogspot.com/)
+- 🧩 Feel free to contact me for contributing in projects
+- ⚡ Fun fact: 🙈 🧑🏻‍💻 ⚽️

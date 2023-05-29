@@ -7,6 +7,7 @@
 - ✨ Blogspot: [TPK Vi Dam Me](https://tpkvidamme.blogspot.com/)
 - 🧩 Feel free to contact me for contributing in projects
 - ⚡ Fun fact: 🙈 🧑🏻‍💻 ⚽️ [dev-khanh.github.io](https://dev-khanh.github.io/)
+- WebSize: https://zonelancer.com
 
 
 
